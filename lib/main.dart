@@ -105,6 +105,7 @@ class HomePage extends StatelessWidget {
                         imagemURl: "https://cordilheira.com.br/cdn/shop/files/5_d67e4ca4-5957-446e-9aec-678826e5ff3b.png?v=1695657096",
                         diferencial: "Material da camisa: Pano de algodão egipcio",
                         onTap: () {},
+                        //Codigo propriedade de João Pedro Teixeira Reis.
                       ),
                     ),
                   );
